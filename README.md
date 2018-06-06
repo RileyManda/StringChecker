@@ -1,3 +1,3 @@
-# StringChecker
+# StringChecker [![Awesome]
 A small application that checks various attributes of Strings
 #Developed for fun
